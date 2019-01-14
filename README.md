@@ -7,7 +7,7 @@ I do not think this is necessary, because it's easy to do this in the AWS SDK as
 
 ### Example Setup
 
-```
+```bash
 # set up the infrastructure
 cd infra
 terrafrom init
