@@ -1,0 +1,11 @@
+# ruby stuff
+.ruby-version
+.ruby-gemset
+
+# application stuff
+*.log
+
+# terraform stuff
+*.tfstate
+*.tfplan
+*.backup
