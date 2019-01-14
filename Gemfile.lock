@@ -2,8 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     aws-eventstream (1.0.1)
-    aws-kclrb (1.0.1)
-      multi_json (~> 1.0)
     aws-partitions (1.131.0)
     aws-sdk (3.0.1)
       aws-sdk-resources (~> 3)
@@ -693,7 +691,6 @@ GEM
     aws-sigv2 (1.0.1)
     aws-sigv4 (1.0.3)
     jmespath (1.4.0)
-    multi_json (1.13.1)
     mustermann (1.0.3)
     rack (2.0.6)
     rack-protection (2.0.5)
@@ -709,7 +706,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-kclrb
   aws-sdk
   sinatra
 
