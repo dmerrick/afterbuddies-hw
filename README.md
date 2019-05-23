@@ -2,7 +2,7 @@
 
 For my solution I decided to keep things very simple and created a Sinatra app.
 
-Since infrastructure should be managed as code, I also included Terrafrom code to set up the Kinesis stream.
+Since infrastructure should be managed as code, I also included Terraform code to set up the Kinesis stream.
 I do not think this is necessary, because it's easy to do this in the AWS SDK as well, but it's good practice.
 
 ### Example Setup
