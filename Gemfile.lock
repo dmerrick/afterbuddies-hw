@@ -692,7 +692,7 @@ GEM
     aws-sigv4 (1.0.3)
     jmespath (1.4.0)
     mustermann (1.0.3)
-    rack (2.0.6)
+    rack (2.0.8)
     rack-protection (2.0.5)
       rack
     sinatra (2.0.5)
