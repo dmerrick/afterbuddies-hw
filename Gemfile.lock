@@ -690,7 +690,7 @@ GEM
       aws-sigv4 (~> 1.0)
     aws-sigv2 (1.0.1)
     aws-sigv4 (1.0.3)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     mustermann (1.0.3)
     rack (2.0.6)
     rack-protection (2.0.5)
